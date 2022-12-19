@@ -1,0 +1,13 @@
+%FILES%
+clangarm64/
+clangarm64/bin/
+clangarm64/bin/libcrypto-1_1.pdb
+clangarm64/bin/libssl-1_1.pdb
+clangarm64/bin/openssl.pdb
+clangarm64/lib/
+clangarm64/lib/engines/
+clangarm64/lib/engines/capi.pdb
+clangarm64/lib/engines/dasync.pdb
+clangarm64/lib/engines/ossltest.pdb
+clangarm64/lib/engines/padlock.pdb
+
