@@ -1,0 +1,6 @@
+%FILES%
+clangarm64/
+clangarm64/bin/
+clangarm64/bin/curl.pdb
+clangarm64/bin/libcurl-4.pdb
+
